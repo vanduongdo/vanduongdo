@@ -1,8 +1,3 @@
-<style>
-a {
-  text-decoration: none !important;
-}
-</style>
 
 <h1 align="center">Hi 👋, I'm Duong Do Van</h1>
 <h3 align="center">As a software engineer</h3>
