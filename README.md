@@ -3,16 +3,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <span>
             <a href="https://www.php.net" target="blank" rel="noreferrer" style="text-decoration: none !important">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    </span>
-    <span>
+        </a>
          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" style="text-decoration: none">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    </span>
     <a href="https://laravel.com/" target="blank" rel="noreferrer" style="text-decoration: none">
         <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="laravel" width="40" height="40" />
     </a>
@@ -84,8 +80,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanduongdo&show_icons=true&locale=en&layout=compact" alt="vanduongdo" /></p>
-<style>
-a {
-  text-decoration: none;
-}
-</style>
