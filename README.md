@@ -1,8 +1,3 @@
-<style>
-a {
-  text-decoration: none;
-}
-</style>
 <h1 align="center">Hi 👋, I'm Duong Do Van</h1>
 <h3 align="center">As a software engineer</h3>
 
@@ -85,3 +80,8 @@ a {
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanduongdo&show_icons=true&locale=en&layout=compact" alt="vanduongdo" /></p>
+<style>
+a {
+  text-decoration: none;
+}
+</style>
