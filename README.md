@@ -3,13 +3,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-            <a href="https://www.php.net" target="blank" rel="noreferrer" style="text-decoration: none !important">
+            <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none !important">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
         </a>
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" style="text-decoration: none">
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://laravel.com/" target="blank" rel="noreferrer" style="text-decoration: none">
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
         <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="laravel" width="40" height="40" />
     </a>
     <a href="https://reactjs.org/" target="blank" rel="noreferrer" style="text-decoration: none">
